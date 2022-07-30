@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
 
