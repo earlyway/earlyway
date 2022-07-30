@@ -15,182 +15,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Earlyway 의 깃허브 입니다.
-## The_Legend_Pythoner
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+# My **E**arlyway Firstway Fastway
+# 👍👍👍👍👍
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
 
-Blender3D polygon modeling 프로그램 내에 내장된 Python API script 를 이용해 작업하고 있습니다.
 
-- Type some Markdown on the left 왼쪽에 markdown을 작성하세요.
-- See HTML in the right 오른쪽을 보세요.
-- ✨Magic ✨
-
-## Features
-
-- Import a HTML file and watch it magically convert to Markdown html 파일을 임포트하고 markdown html파일로 변환되는 마법을 경험해보세요!
-- Drag and drop images (requires your Dropbox account be linked) 이미지를 드래그앤 드랍하세요(단, dropbox 링크가 필요합니다.)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive(github, dropbox, googld drive, One drive 으로부터 파일을 임포트하고 세이브하세요!)
-- Drag and drop markdown and HTML files into Dillinger()
-- Export documents as Markdown, HTML and PDF(markdown, HTML, pdf 문서에서 익스포트하세요)
-
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-Markdown은 사람들이 자연스럽게 e-mail에서 사용하는 formatting convention이 기반인 가벼운 markup language 입니다.
-As [John Gruber] writes on the [Markdown site][df1]
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
->Markdown의 formatting syntax를 위한 우선 설계 목표는
->읽기 가능하게 만드는 것입니다.
->이 아이디어는 markdown-format기반 문서에서 일반 평문처럼 퍼블리싱을 해야합니다.
->태그들과 함께 marked up 되있거나
->설명, 지시가 formating 되는것 없이 text로 
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-/이 텍스트는 보시다시피 Markdown에서 작성되었습니다!/
-/Markdown syntax를 이해하기위해 왼쪽 창에 text를 입력하고 그 결과를 오른쪽에서 확인하세요.
+[Blender](https://www.blender.org/) 3D polygon modeling 프로그램 내에 내장된 [Python](https://www.python.org/) API script 를 이용해 작업하고 있습니다.
+- 블렌더는 개발자들이 활용할 수 있도록 Open source 로 열려있습니다.
+- 블렌더 사용료는 Free! 
+- 모델링, 리깅, 렌더링, 애니메이션, VFX, 영상 편집까지 다재다능합니다.
+- Script와 Addon 개발을 위한 Python API 를 [Blender][offi]에서 공식적으로 제공합니다.
+- eevee, cycle, workBench 게임엔진을 내장하고 있습니다.
 
 
 
-## Tech
-
-Earlyway uses a number of open source projects to work properly:
-
-
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-dillinger 는 플러그인으로 확장됩니다.
-
-
-| Plugin | README |
+[Latest Blender 3.2][3.2] 2022.07.30 기준
+| release date | version |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-/*google fmlol*/
-## Development
+| 2022.06 | [3.2][3.2] |
+| 2022.03 | 3.1 |
+| 2021.12 | 3.0 |
+| 2021.06 | [2.93 LTS][2.93] |
+| 2020.06 | 2.83 LTS |
 
 
-Make a change in your file and instantaneously see your updates!
-당신의 파일을 
 
-Open your favorite Terminal and run these commands.
+### 블렌더가 사용된 [**Title**] 
+> [`신과 함께 : 죄와 벌 Along with the gods - The two worlds`](https://www.blender.org/user-stories/goodbye-kansas-studios/#along-with-the-gods-the-two-worlds)
+[`MassEffect : The Andromeda Initiative`](https://www.blender.org/user-stories/goodbye-kansas-studios/#mass-effect-the-andromeda-initiative)
+[`characters for Unity - Adam demo`](https://www.blender.org/user-stories/goodbye-kansas-studios/#characters-for-unity-adam-demo)
+[`Walking dead - season 8`](https://www.blender.org/user-stories/goodbye-kansas-studios/#walking-dead-season-8)
+[`Overkill's : The Walking dead - Aidan trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#overkills-the-walking-dead-aidan-trailer)
+[`Biomutant - cinematic trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#biomutant-cinematic-trailer)
+[`Raid : World War 2 - cinematic trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#raid-world-war-2-cinematic-trailer)
+ 그 외 .....
 
-First Tab:
 
-```sh
-node app
+
+```python
+a = 1
+b = 2
 ```
 
-Second Tab:
 
-```sh
-gulp watch
-```
 
-(optional) Third:
 
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
+## **Free Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -205,13 +78,12 @@ MIT
    [jQuery]: <http://jquery.com>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   
+   [offi]: <https://docs.blender.org/api/current/info_quickstart.html>
+   [title]: <https://www.blender.org/user-stories/goodbye-kansas-studios/>
+   [3.2]:<https://www.blender.org/download/releases/3-2/>
+   [2.93]:<https://www.blender.org/download/lts/2-93/>
+
 
