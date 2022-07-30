@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **earlyway/earlyway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Blender%20Pythoner&fontSize=80&fontColor=000000&animation=twinkling)
 
-# My **E**arlyway Firstway Fastway
-# 👍👍👍👍👍
+# **M**y **E**arlyway **F**irstway **F**astway 👍👍👍👍👍👍👍👍👍👍
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<div align=center>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fearlyway%2Fhit-counter&count_bg=%238FAAD0&title_bg=%239E2F2F&icon=github.svg&icon_color=%23E2D0D0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+
+
 
 
 [Blender](https://www.blender.org/) 3D polygon modeling 프로그램 내에 내장된 [Python](https://www.python.org/) API script 를 이용해 작업하고 있습니다.
@@ -40,7 +47,6 @@ Here are some ideas to get you started:
 | 2021.12 | 3.0 |
 | 2021.06 | [2.93 LTS][2.93] |
 | 2020.06 | 2.83 LTS |
-
 
 
 ### 블렌더가 사용된 [**Title**] 
