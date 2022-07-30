@@ -24,20 +24,21 @@ Here are some ideas to get you started:
 
 Blender3D polygon modeling 프로그램 내에 내장된 Python API script 를 이용해 작업하고 있습니다.
 
-- Type some Markdown on the left
-- See HTML in the right
+- Type some Markdown on the left 왼쪽에 markdown을 작성하세요.
+- See HTML in the right 오른쪽을 보세요.
 - ✨Magic ✨
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Import a HTML file and watch it magically convert to Markdown html 파일을 임포트하고 markdown html파일로 변환되는 마법을 경험해보세요!
+- Drag and drop images (requires your Dropbox account be linked) 이미지를 드래그앤 드랍하세요(단, dropbox 링크가 필요합니다.)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive(github, dropbox, googld drive, One drive 으로부터 파일을 임포트하고 세이브하세요!)
+- Drag and drop markdown and HTML files into Dillinger()
+- Export documents as Markdown, HTML and PDF(markdown, HTML, pdf 문서에서 익스포트하세요)
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
+Markdown은 사람들이 자연스럽게 e-mail에서 사용하는 formatting convention이 기반인 가벼운 markup language 입니다.
 As [John Gruber] writes on the [Markdown site][df1]
 
 > The overriding design goal for Markdown's
@@ -47,14 +48,25 @@ As [John Gruber] writes on the [Markdown site][df1]
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
+>Markdown의 formatting syntax를 위한 우선 설계 목표는
+>읽기 가능하게 만드는 것입니다.
+>이 아이디어는 markdown-format기반 문서에서 일반 평문처럼 퍼블리싱을 해야합니다.
+>태그들과 함께 marked up 되있거나
+>설명, 지시가 formating 되는것 없이 text로 
 
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
+/이 텍스트는 보시다시피 Markdown에서 작성되었습니다!/
+/Markdown syntax를 이해하기위해 왼쪽 창에 text를 입력하고 그 결과를 오른쪽에서 확인하세요.
+
+
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+Earlyway uses a number of open source projects to work properly:
+
+
 
 - [AngularJS] - HTML enhanced for web apps!
 - [Express] - fast node.js network app framework [@tjholowaychuk]
@@ -88,6 +100,8 @@ NODE_ENV=production node app
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
+dillinger 는 플러그인으로 확장됩니다.
+
 
 | Plugin | README |
 | ------ | ------ |
@@ -100,10 +114,9 @@ Instructions on how to use them in your own application are linked below.
 /*google fmlol*/
 ## Development
 
-Want to contribute? Great!
 
-Dillinger uses Gulp + Webpack for fast developing.
 Make a change in your file and instantaneously see your updates!
+당신의 파일을 
 
 Open your favorite Terminal and run these commands.
 
