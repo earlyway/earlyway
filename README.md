@@ -12,15 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Blender%20Pythoner&fontSize=80&fontColor=000000&animation=twinkling)
 
-# **M**y **E**arlyway **F**irstway **F**astway 👍👍👍👍👍👍👍👍👍👍
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Blender%20Pythoner&fontSize=80&fontColor=000000&animation=twinkling)
+
+ 
+<div align=right>
+📧 tiky@kakao.com
+ </div>
+
 
 <div align=center>
 
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
+
+<!--
+이것도 사용가능한 뱃지
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black"/>
+-->
 
 
 
@@ -58,7 +68,7 @@ Here are some ideas to get you started:
 [`Overkill's : The Walking dead - Aidan trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#overkills-the-walking-dead-aidan-trailer)
 [`Biomutant - cinematic trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#biomutant-cinematic-trailer)
 [`Raid : World War 2 - cinematic trailer`](https://www.blender.org/user-stories/goodbye-kansas-studios/#raid-world-war-2-cinematic-trailer)
- 그 외 .....
+ **그 외** .....
 
 
 
@@ -70,7 +80,6 @@ b = 2
 
 
 
-## **Free Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
