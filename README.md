@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Blender%20Pythoner&fontSize=80&fontColor=000000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=B,V%20Python&fontSize=80&fontColor=000000&animation=twinkling)
 
  
 <div align=right>
@@ -77,6 +77,15 @@ a = 1
 b = 2
 ```
 
+[Vred modeling 3D][Vred] 프로그램에 내장된 [Python script][pyscrip] 를 이용해 작업하고 있습니다.
+- Python을 이용해 스크립트 자동화를 가능케합니다.
+- 고품질, 고용량 3D 렌더링에 최적화되어 있습니다.
+- 디지털 트윈 기술, 프로토타입 제작, 시연에 장점이 있습니다.
+- 웹과 연결하여 협업에 능하고 스트리밍 API를 가지고 있습니다.
+- VR, XR 기술을 지원합니다.
+- GPU 레이트레이싱, OpenGL을 지원합니다.
+- HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
+
 
 
 
@@ -101,5 +110,7 @@ b = 2
    [title]: <https://www.blender.org/user-stories/goodbye-kansas-studios/>
    [3.2]:<https://www.blender.org/download/releases/3-2/>
    [2.93]:<https://www.blender.org/download/lts/2-93/>
+   [Vred]:<https://www.autodesk.co.kr/products/vred/overview?term=1-YEAR&tab=subscription>
+   [pyscrip]:<https://knowledge.autodesk.com/ko/support/vred-products/learn-explore/caas/CloudHelp/cloudhelp/2021/KOR/VRED-WhatsNew/files/VRED-Tutorials/term-scr-html.html>
 
 
