@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=B,V%20Python&fontSize=80&fontColor=000000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Py%20anonymous&fontSize=80&fontColor=000000&animation=twinkling)
 
  
 <div align=right>
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <!--
 이것도 사용가능한 뱃지
@@ -88,6 +91,13 @@ b = 2
 
 
 
+2023.04.03 현재 C언어, C# unity 를 study 중에 있습니다.
+
+iOS 어플도 만들고 싶고\
+블록체인-NFT 를 결합해서 나만의 상품도 판매하고 싶고\
+unity 를 이용해 게임도 만들고 싶습니다.\
+\
+이를 위해 어제보다 오늘 더 성장하고 있습니다💻💡
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
