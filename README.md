@@ -43,6 +43,16 @@ Here are some ideas to get you started:
 
 
 
+[Vred modeling 3D][Vred] 프로그램에 내장된 [Python script][pyscrip] 를 이용해 작업하고 있습니다.
+- Python을 이용해 스크립트 자동화를 가능케합니다.
+- 고품질, 고용량 3D 렌더링에 최적화되어 있습니다.
+- 디지털 트윈 기술, 프로토타입 제작, 시연에 장점이 있습니다.
+- 웹과 연결하여 협업에 능하고 스트리밍 API를 가지고 있습니다.
+- VR, XR 기술을 지원합니다.
+- GPU 레이트레이싱, OpenGL을 지원합니다.
+- HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
+
+---------------------------------------------------------------------------------------------------------
 
 [Blender](https://www.blender.org/) 3D polygon modeling 프로그램 내에 내장된 [Python](https://www.python.org/) API script 를 이용해 작업하고 있습니다.
 - 블렌더는 개발자들이 활용할 수 있도록 Open source 로 열려있습니다.
@@ -80,18 +90,8 @@ a = 1
 b = 2
 ```
 
-[Vred modeling 3D][Vred] 프로그램에 내장된 [Python script][pyscrip] 를 이용해 작업하고 있습니다.
-- Python을 이용해 스크립트 자동화를 가능케합니다.
-- 고품질, 고용량 3D 렌더링에 최적화되어 있습니다.
-- 디지털 트윈 기술, 프로토타입 제작, 시연에 장점이 있습니다.
-- 웹과 연결하여 협업에 능하고 스트리밍 API를 가지고 있습니다.
-- VR, XR 기술을 지원합니다.
-- GPU 레이트레이싱, OpenGL을 지원합니다.
-- HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
 
-
-
-2023.04.03 현재 C언어, C# unity 를 study 중에 있습니다.
+2023.08.16 ing~
 
 iOS 어플도 만들고 싶고\
 블록체인-NFT 를 결합해서 나만의 상품도 판매하고 싶고\
