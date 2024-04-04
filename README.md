@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 - HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
 
 ---------------------------------------------------------------------------------------------------------
-
+'''
+<!--
 [Blender](https://www.blender.org/) 3D polygon modeling 프로그램 내에 내장된 [Python](https://www.python.org/) API script 를 이용해 작업하고 있습니다.
 - 블렌더는 개발자들이 활용할 수 있도록 Open source 로 열려있습니다.
 - 블렌더 사용료는 Free! 
@@ -72,8 +73,10 @@ Here are some ideas to get you started:
 | 2021.06 | [2.93 LTS][2.93] |
 | 2020.06 | 2.83 LTS |
 
+'''
 
 ### 블렌더가 사용된 [**Title**] 
+-->
 > [`신과 함께 : 죄와 벌 Along with the gods - The two worlds`](https://www.blender.org/user-stories/goodbye-kansas-studios/#along-with-the-gods-the-two-worlds)
 [`MassEffect : The Andromeda Initiative`](https://www.blender.org/user-stories/goodbye-kansas-studios/#mass-effect-the-andromeda-initiative)
 [`characters for Unity - Adam demo`](https://www.blender.org/user-stories/goodbye-kansas-studios/#characters-for-unity-adam-demo)
@@ -91,7 +94,7 @@ b = 2
 ```
 
 
-2023.09.04 ing~
+2024.04.04 ing~
 
 
 어제보다 오늘 더 성장하고 있습니다💻💡
