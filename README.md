@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <img src="https://img.shields.io/badge/VRED-F7DF1E?style=flat-square&logo=VEED&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Vision Pro-000000?style=flat-square&logo=Apple&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Vision Pro-ffffff?style=flat-square&logo=Apple&logoColor=black"/></a>
 
 <!--
 이것도 사용가능한 뱃지
