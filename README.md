@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/VRED-F7DF1E?style=flat-square&logo=VEED&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Vision Pro-ffffff?style=flat-square&logo=Apple&logoColor=black"/></a>
