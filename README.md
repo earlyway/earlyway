@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=Py%20effect&fontSize=80&fontColor=000000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=0:833ab4,50:fd1d1d,100:fcb045&height=180&section=header&text=CODE%20effect&fontSize=80&fontColor=000000&animation=twinkling)
 
  
 <div align=right>
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <!--
@@ -40,15 +39,19 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fearlyway%2Fhit-counter&count_bg=%238FAAD0&title_bg=%239E2F2F&icon=github.svg&icon_color=%23E2D0D0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+Apple Vision Pro 로 미래의 공간 컴퓨팅 발전에 기여하고 있습니다.
+- MacBook pro M3 를 사용하고 있습니다.
+- 필요한 개념이 많습니다. (2D, 3D, swift, swiftUI, ARkit, Realitykit, Reality composer pro 등)
+- 그래서 배울 것이 넘쳐납니다.
 
-
+---------------------------------------------------------------------------------------------------------
 
 [Vred modeling 3D][Vred] 프로그램에 내장된 [Python script][pyscrip] 를 이용해 작업하고 있습니다.
 - Python을 이용해 스크립트 자동화를 가능케합니다.
 - 고품질, 고용량 3D 렌더링에 최적화되어 있습니다.
 - 디지털 트윈 기술, 프로토타입 제작, 시연에 장점이 있습니다.
 - 웹과 연결하여 협업에 능하고 스트리밍 API를 가지고 있습니다.
-- VR, XR 기술을 지원합니다.
+- VR, XR 기술을 지원합니다. (Varjo XR-3, Varjo XR-4, Apple vision Pro, Meta quest 3, Meta quest Pro, HTC Vive pro, HTC Vive Focus3, PICO 4 등 가능)
 - GPU 레이트레이싱, OpenGL을 지원합니다.
 - HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
 
@@ -94,7 +97,7 @@ b = 2
 ```
 
 
-2024.04.04 ing~
+2024.08.22 ing~
 
 
 어제보다 오늘 더 성장하고 있습니다💻💡
