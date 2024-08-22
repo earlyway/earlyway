@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://img.shields.io/badge/VRED-F7DF1E?style=flat-square&logo=VEED&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Vision Pro-000000?style=flat-square&logo=Apple&logoColor=black"/></a>
 
 <!--
 이것도 사용가능한 뱃지
