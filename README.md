@@ -40,10 +40,13 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fearlyway%2Fhit-counter&count_bg=%238FAAD0&title_bg=%239E2F2F&icon=github.svg&icon_color=%23E2D0D0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-Apple Vision Pro 로 미래의 공간 컴퓨팅 발전에 기여하고 있습니다.
+
+
+Apple Vision Pro 로 미래의 공간 컴퓨팅 기기 발전에 기여하고 있습니다.
 - MacBook pro M3 를 사용하고 있습니다.
 - 필요한 개념이 많습니다. (2D, 3D, swift, swiftUI, ARkit, Realitykit, Reality composer pro 등)
-- 그래서 배울 것이 넘쳐납니다.
+- 높은 그래픽 수준을 위해 Metal API 사용이 필요합니다.
+- 최적화와 고퀄리티 둘다 잡기 위해 많은 디테일 요소들을 찾아야합니다.
 
 ---------------------------------------------------------------------------------------------------------
 
