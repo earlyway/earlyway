@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 </div>
 
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 Apple Vision Pro 로 미래의 공간 컴퓨팅 기기 발전에 기여하고 있습니다.
