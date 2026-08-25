@@ -43,6 +43,16 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
+NVIDIA omniverse 플랫폼의 USD composer 와 Isaac-sim 프로그램을 사용하고 있습니다.
+- Python 과 OpenUSD 의 구조를 따릅니다.
+- NVIDIA PhysX 기술이 반영되어 정확하고 신속한 물리 처리 기술이 포함됩니다.
+- DigitalTwin / Physical AI / Extended Modeling / Robotics / ML RL 등의 학습에 크게 기여하고 있습니다.
+
+---------------------------------------------------------------------------------------------------------
+
+Arduino hardware 를 이용해서 조그마한 장난감들을 만들고 있습니다.
+바이브코딩 그리고 구글링을 통해 목표에 꾸준히 다가가고 있습니다.
+
 Apple Vision Pro 로 미래의 공간 컴퓨팅 기기 발전에 기여하고 있습니다.
 - MacBook pro M3 를 사용하고 있습니다.
 - 필요한 개념이 많습니다. (2D, 3D, swift, swiftUI, ARkit, Realitykit, Reality composer pro 등)
@@ -61,16 +71,6 @@ Apple Vision Pro 로 미래의 공간 컴퓨팅 기기 발전에 기여하고 �
 - HTML5 와 Javascript를 이용해 Vred의 씬과 결합하여 강력한 UI/UX환경을 만들 수 있습니다.
 
 ---------------------------------------------------------------------------------------------------------
-
-NVIDIA omniverse 플랫폼의 USD composer 와 Isaac-sim 프로그램을 사용하고 있습니다.
-- Python 과 OpenUSD 의 구조를 따릅니다.
-- NVIDIA PhysX 기술이 반영되어 정확하고 신속한 물리 처리 기술이 포함됩니다.
-- DigitalTwin / Physical AI / Extended Modeling / Robotics / ML RL 등의 학습에 크게 기여하고 있습니다.
-
----------------------------------------------------------------------------------------------------------
-
-Arduino hardware 를 이용해서 조그마한 장난감들을 만들고 있습니다.
-바이브코딩 그리고 구글링을 통해 목표에 꾸준히 다가가고 있습니다.
 
 
 
