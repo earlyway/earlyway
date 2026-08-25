@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-
+<img src="https://img.shields.io/badge/Omniverse-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VRED-F7DF1E?style=flat-square&logo=VEED&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Vision Pro-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 
