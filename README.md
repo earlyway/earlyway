@@ -53,6 +53,8 @@ NVIDIA omniverse 플랫폼의 USD composer 와 Isaac-sim 프로그램을 사용�
 Arduino hardware 를 이용해서 조그마한 장난감들을 만들고 있습니다.
 바이브코딩 그리고 구글링을 통해 목표에 꾸준히 다가가고 있습니다.
 
+---------------------------------------------------------------------------------------------------------
+
 Apple Vision Pro 로 미래의 공간 컴퓨팅 기기 발전에 기여하고 있습니다.
 - MacBook pro M3 를 사용하고 있습니다.
 - 필요한 개념이 많습니다. (2D, 3D, swift, swiftUI, ARkit, Realitykit, Reality composer pro 등)
